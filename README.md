@@ -1,7 +1,7 @@
 <h1> Olá, bem vindo(a) ao meu perfil! </h1>
 
 <ul>
-  <li>🖥️ Estudando front-end. </li>
+  <li>🖥️ Cursando Análise e Desenvolvimento de Sistemas (ADS) </li>
   <li>🎓 Técnica em Informática para Internet pelo IFAL. </li>
   <li>🔮 Materializando ideias em códigos desde 2019!</li>
 </ul>
