@@ -38,7 +38,5 @@
   
    ##
   
-  ![Snake animation](https://github.com/mariakarolinesvg/mariakarolinesvg/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 </div>
